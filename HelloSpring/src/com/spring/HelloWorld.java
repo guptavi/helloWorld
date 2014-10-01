@@ -10,4 +10,8 @@ public class HelloWorld {
 	public void setMessage(String message) {
 		this.message = message;
 	}
+	
+	public void gitMethod(){
+			System.out.println("Using Git Hub");
+	}
 }
