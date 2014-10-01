@@ -1,0 +1,3 @@
+hi First commit using gitBash
+
+Geeting Bugs
