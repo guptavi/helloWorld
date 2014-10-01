@@ -15,5 +15,6 @@ public class MainApp {
 		
 		HelloWorld helloWorld1 = (HelloWorld) context.getBean("helloWorld");
 		helloWorld1.getMessage();
+		helloWorld1.gitMethod();
 	}
 }
