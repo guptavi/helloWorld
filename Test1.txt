@@ -1,3 +1,5 @@
 hi First commit using gitBash
 
 Geeting Bugs
+
+Changes Done from local using GitBash
